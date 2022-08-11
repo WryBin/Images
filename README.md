@@ -1,1 +1,1 @@
-Image storage
+Images storage
